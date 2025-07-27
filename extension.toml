@@ -5,3 +5,7 @@ schema_version = 1
 authors = ["Léo Labruyère <leo.labruyere@pm.me>"]
 description = "D support."
 repository = "https://github.com/Cadichon/dlang-zed"
+
+[grammars.d]
+repository = "https://github.com/gdamore/tree-sitter-d"
+rev = "fb028c8f14f4188286c2eef143f105def6fbf24f"

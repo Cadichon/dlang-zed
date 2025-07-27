@@ -1,0 +1,4 @@
+name = "D"
+grammar = "d"
+path_suffixes = ["d", "di", "dd"]
+line_comments = ["// "]
